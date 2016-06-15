@@ -1,3 +1,3 @@
 # NLP Scripts
 
-Some practice with nlp stuff.
+Where I toss nlp-related experiments and scripts.

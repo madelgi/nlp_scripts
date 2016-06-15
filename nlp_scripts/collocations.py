@@ -123,7 +123,6 @@ class Collocation(object):
         return num/denom
 
 
-# Exercise 5.10
 def distinguishing_terms(corpus, split):
     """Terribly inefficient way to find distinguishing bigrams across some
     split of a corpus.
